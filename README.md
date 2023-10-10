@@ -11,8 +11,8 @@
 
 <h1 align="center">Reach me on</h1>
 <div align="center">
-<a href="https://www.linkedin.com/in/sarvagn-pathak-482274247"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.twitter.com/sdpathak24" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sarvagn-pathak-482274247"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.twitter.com/sdpathak24" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 <!--
 **sdpathak24/sdpathak24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
