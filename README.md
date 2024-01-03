@@ -7,11 +7,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sdpathak24&theme=transparent&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdpathak24&row=1&column=6" alt="sdpathak24" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdpathak24&show_icons=true&locale=en&layout=compact" /></p>
-
 <hr>
 
 <h1 align="center">Reach me on</h1>
