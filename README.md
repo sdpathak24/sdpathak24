@@ -7,6 +7,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sdpathak24&theme=transparent&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
 
+<div>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 <hr>
 
 <h1 align="center">Reach me on</h1>
